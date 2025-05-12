@@ -1,6 +1,6 @@
 # 🥗 AI Meal Planner
 
-A full-stack AI-powered meal planner that suggests vegetarian meals based on your macro goals and preferences. Built with **FastAPI**, **LLaMA3 (via Ollama)**, and **React + Tailwind CSS**.
+A full-stack AI-powered meal planner that suggests meals based on your macro goals and preferences. Built with **FastAPI**, **LLaMA3 (via Ollama)**, and **React + Tailwind CSS**.
 
 ---
 
